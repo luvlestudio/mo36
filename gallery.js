@@ -48,20 +48,20 @@ window.onload = () => {
       content: {
         title: "고한준 ♥ 유지원의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/63aVXdi.png",
+        imageUrl: "https://i.imgur.com/IJHoVtD.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo35.luvle.co.kr",
-          webUrl: "https://mo35.luvle.co.kr",
+          mobileWebUrl: "https://mo36.luvle.co.kr",
+          webUrl: "https://mo36.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo35.luvle.co.kr",
-            webUrl: "https://mo35.luvle.co.kr",
+            mobileWebUrl: "https://mo36.luvle.co.kr",
+            webUrl: "https://mo36.luvle.co.kr",
           },
         },
       ],
